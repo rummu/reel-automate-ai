@@ -3,6 +3,7 @@
 opencv-python>=4.8.0
 numpy>=1.24.0
 Pillow>=10.0.0
+pillow-heif>=0.13.0
 piexif>=1.1.3
 
 # Video Assembly & Encoding (imageio-ffmpeg brings its own static ffmpeg binary!)
